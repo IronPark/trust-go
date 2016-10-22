@@ -8,7 +8,8 @@ This list is based on my personal criteria, based on [awesome-go](https://github
 * [echo](https://github.com/labstack/echo)
 * [lars](https://github.com/go-playground/lars)
 * [Gin](https://github.com/gin-gonic/gin)
-### Micro services
+
+### Micro service
 * [Gizmo](https://github.com/NYTimes/gizmo)
 * [go-kit](https://github.com/go-kit/kit)
 * [goa](https://github.com/raphael/goa)
