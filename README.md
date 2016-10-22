@@ -6,3 +6,9 @@ This list is based on my personal criteria, based on [awesome-go](https://github
 * [Beego](https://github.com/astaxie/beego) 
 * [chi](https://github.com/pressly/chi)
 * [echo](https://github.com/labstack/echo)
+* [lars](https://github.com/go-playground/lars)
+* [Gin](https://github.com/gin-gonic/gin)
+### Micro services
+* [Gizmo](https://github.com/NYTimes/gizmo)
+* [go-kit](https://github.com/go-kit/kit)
+* [goa](https://github.com/raphael/goa)
